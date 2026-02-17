@@ -1,30 +1,73 @@
-🎧 Let-it-happen-in-terminal
-A simple Python script to play Tame Impala - Let It Happen (Sped Up) directly in your terminal.
+أكيد خويا 🔥 ها هو **النص كامل** جاهز Copy/Paste فـ `README.md`:
 
-Requirements
-Python 3
-requests library
-ffmpeg (for audio playback)
-🛠️ Installation
-Linux / MacOS:
+````md
+# 🎧 Let-it-happen-in-terminal
 
-pip install requestssudo apt install ffmpeg
-Windows:
+A simple Python script that downloads and plays  
+**Tame Impala - Let It Happen (Sped Up)** directly in your terminal.
+
+---
+
+## ✨ Features
+- Downloads the song automatically
+- Plays it using **ffplay (ffmpeg)**
+- Works on **Linux / macOS / Windows**
+- Fast and simple 🚀
+
+---
+
+## 📦 Requirements
+- Python 3
+- `requests` library
+- `ffmpeg` (for audio playback)
+
+---
+
+## 🛠️ Installation
+
+### Linux / macOS
+```bash
 pip install requests
- Run the Script
-Linux / MacOS:
+sudo apt install ffmpeg
+````
 
+### Windows
+
+```bash
+pip install requests
+```
+
+> ⚠️ On Windows, you must install **FFmpeg** manually and add it to PATH.
+
+---
+
+## ▶️ Run the Script
+
+### Linux / macOS
+
+```bash
 python3 let_it_happen_tr.py
+```
 
-Windows:
+### Windows
 
+```bash
 python let_it_happen_tr.py
+```
 
-Terminal Screenshot
-<img width="1024" height="666" alt="Screenshot From 2026-02-17 21-46-38" src="https://github.com/user-attachments/assets/f006253f-d3d6-46fc-9c14-a20f869368e0" />
+---
 
+## 🖥️ Terminal Screenshot
 
-Made by NASA
+<img width="1024" height="666" alt="Let It Happen Terminal" src="Screenshot.png" />
 
-                        Made by nasa4rayan
+---
 
+## ❤️ Made by
+
+**NASA (nasa4rayan)** 🚀
+
+```
+
+✅ ماتنساش تحط `Screenshot.png` فـ نفس الدوسي ديال `README.md` باش تبان الصورة.
+```
