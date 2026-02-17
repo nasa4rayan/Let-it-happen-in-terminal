@@ -1,4 +1,3 @@
-``md
 # 🎧 Let-it-happen-in-terminal
 
 A simple Python script that downloads and plays  
@@ -10,7 +9,7 @@ A simple Python script that downloads and plays
 - Downloads the song automatically
 - Plays it using **ffplay (ffmpeg)**
 - Works on **Linux / macOS / Windows**
-- Fast and simple 🚀
+- Fast and simple 
 
 ---
 
@@ -57,7 +56,7 @@ python let_it_happen_tr.py
 
 ##  Terminal Screenshot
 
-<img width="1024" height="666" alt="Let It Happen Terminal" src="Screenshot.png" />
+<img width="1024" height="666" alt="Screenshot From 2026-02-17 21-46-38" src="https://github.com/user-attachments/assets/88b083af-c5c9-4215-ace8-e9480119b848" />
 
 ---
 
