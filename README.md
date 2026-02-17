@@ -61,10 +61,4 @@ python let_it_happen_tr.py
 ---
 
 
-
 **NASA (nasa4rayan)** 
-
-```
-
-✅ ماتنساش تحط `Screenshot.png` فـ نفس الدوسي ديال `README.md` باش تبان الصورة.
-```
