@@ -1,6 +1,4 @@
-أكيد خويا 🔥 ها هو **النص كامل** جاهز Copy/Paste فـ `README.md`:
-
-````md
+``md
 # 🎧 Let-it-happen-in-terminal
 
 A simple Python script that downloads and plays  
@@ -8,7 +6,7 @@ A simple Python script that downloads and plays
 
 ---
 
-## ✨ Features
+## Features
 - Downloads the song automatically
 - Plays it using **ffplay (ffmpeg)**
 - Works on **Linux / macOS / Windows**
@@ -16,14 +14,14 @@ A simple Python script that downloads and plays
 
 ---
 
-## 📦 Requirements
+## Requirements
 - Python 3
 - `requests` library
 - `ffmpeg` (for audio playback)
 
 ---
 
-## 🛠️ Installation
+##  Installation
 
 ### Linux / macOS
 ```bash
@@ -41,7 +39,7 @@ pip install requests
 
 ---
 
-## ▶️ Run the Script
+##  Run the Script
 
 ### Linux / macOS
 
@@ -57,15 +55,15 @@ python let_it_happen_tr.py
 
 ---
 
-## 🖥️ Terminal Screenshot
+##  Terminal Screenshot
 
 <img width="1024" height="666" alt="Let It Happen Terminal" src="Screenshot.png" />
 
 ---
 
-## ❤️ Made by
 
-**NASA (nasa4rayan)** 🚀
+
+**NASA (nasa4rayan)** 
 
 ```
 
